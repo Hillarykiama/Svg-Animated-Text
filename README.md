@@ -1,1 +1,1 @@
-# Svg-Animated-Text
+Animated Text On website using SVG
